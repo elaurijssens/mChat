@@ -47,7 +47,7 @@ $lang = array_merge($lang, [
 	// Who is chatting
 	'MCHAT_WHO_IS_CHATTING'			=> 'Wie is aan het chatten',
 	'MCHAT_ONLINE_USERS_TOTAL'		=> [
-		0 => 'Niemand aan het chatten',
+		0 => 'Niemand is aan het chatten',
 		1 => '<strong>%1$d</strong> gebruiker is aan het chatten',
 		2 => '<strong>%1$d</strong> gebruikers zijn aan het chatten',
 	],
@@ -70,13 +70,13 @@ $lang = array_merge($lang, [
 	'MCHAT_STATIC_MESSAGE'			=> '',
 
 	// Post notification messages (%1$s is replaced with a link to the new/edited post, %2$s is replaced with a link to the forum)
-	'MCHAT_NEW_POST'				=> 'poste een nieuwe topic in: %1$s in %2$s',
-	'MCHAT_NEW_POST_DELETED'		=> 'poste een nieuwe topic dat werd verwijderd',
-	'MCHAT_NEW_REPLY'				=> 'poste een reactie: %1$s in %2$s',
-	'MCHAT_NEW_REPLY_DELETED'		=> 'poste een reactie dat werd verwijderd',
+	'MCHAT_NEW_POST'				=> 'postte een nieuw onderwerp in: %1$s in %2$s',
+	'MCHAT_NEW_POST_DELETED'		=> 'postte een nieuw onderwerp dat werd verwijderd',
+	'MCHAT_NEW_REPLY'				=> 'postte een reactie: %1$s in %2$s',
+	'MCHAT_NEW_REPLY_DELETED'		=> 'postte een reactie die werd verwijderd',
 	'MCHAT_NEW_QUOTE'				=> 'antwoordde met een citaat: %1$s in %2$s',
-	'MCHAT_NEW_QUOTE_DELETED'		=> 'poste een reactie dat werd verwijderd',
-	'MCHAT_NEW_EDIT'				=> 'bewerkte een post: %1$s in %2$s',
-	'MCHAT_NEW_EDIT_DELETED'		=> 'bewerkte een post dat werd verwijderd',
+	'MCHAT_NEW_QUOTE_DELETED'		=> 'postte een reactie die werd verwijderd',
+	'MCHAT_NEW_EDIT'				=> 'bewerkte een bericht: %1$s in %2$s',
+	'MCHAT_NEW_EDIT_DELETED'		=> 'bewerkte een bericht dat werd verwijderd',
 	'MCHAT_NEW_LOGIN'				=> 'heeft zich net aangemeld',
 ]);

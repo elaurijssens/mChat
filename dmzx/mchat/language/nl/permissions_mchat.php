@@ -62,7 +62,7 @@ $lang = array_merge($lang, [
 	'ACL_U_MCHAT_RELATIVE_TIME'				=> 'Kan aanpassen: <em>Toon relatieve tijd</em>',
 	'ACL_U_MCHAT_SOUND'						=> 'Kan aanpassen: <em>Speel geluiden</em>',
 	'ACL_U_MCHAT_WHOIS_INDEX'				=> 'Kan aanpassen: <em>Laat zien wie aan het chatten is onder de chat</em>',
-	'ACL_U_MCHAT_STATS_INDEX'				=> 'Kan aanpassen <em>Laat zien wie aan het chatten is in het gedeelte met statistieken</em>',
+	'ACL_U_MCHAT_STATS_INDEX'				=> 'Kan aanpassen: <em>Laat zien wie aan het chatten is in het gedeelte met statistieken</em>',
 
 	'ACL_A_MCHAT'							=> 'Kan mChat instellingen beheren',
 ]);

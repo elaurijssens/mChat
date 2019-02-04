@@ -39,12 +39,12 @@ $lang = array_merge($lang, [
 	'ACP_CAT_MCHAT'					=> 'mChat',
 	'ACP_CAT_MCHAT_USER_CONFIG'		=> 'mChat in Moderatorpaneel',
 	'ACP_MCHAT_GLOBALSETTINGS'		=> 'Globale instellingen',
-	'ACP_MCHAT_GLOBALUSERSETTINGS'	=> 'Globale gebruikers instellingen',
+	'ACP_MCHAT_GLOBALUSERSETTINGS'	=> 'Globale gebruikersinstellingen',
 
 	// Log entries (%1$s is replaced with the user name who triggered the event)
-	'LOG_MCHAT_CONFIG_UPDATE'		=> '<strong>mChat configuratie geüpdatet</strong><br>» %1$s',
-	'LOG_MCHAT_TABLE_PRUNED'		=> '<strong>mChat berichten opgekuist: %2$d</strong>',
-	'LOG_MCHAT_TABLE_PURGED'		=> '<strong>mChat berichten gezuiverd</strong><br>» %1$s',
+	'LOG_MCHAT_CONFIG_UPDATE'		=> '<strong>mChat configuratie bijgewerkt</strong><br>» %1$s',
+	'LOG_MCHAT_TABLE_PRUNED'		=> '<strong>mChat berichten opgeruimd: %2$d</strong>',
+	'LOG_MCHAT_TABLE_PURGED'		=> '<strong>mChat berichten weggegooid</strong><br>» %1$s',
 	'LOG_DELETED_MCHAT'				=> '<strong>mChat bericht verwijderd</strong><br>» %1$s',
 	'LOG_EDITED_MCHAT'				=> '<strong>mChat bericht bewerkt</strong><br>» %1$s',
 ]);

@@ -38,7 +38,7 @@ $lang = array_merge($lang, [
 	'MCHAT_PREFERENCES'				=> 'mChat voorkeuren',
 	'MCHAT_NO_SETTINGS'				=> 'U bent niet bevoegd om instellingen aan te passen.',
 
-	'MCHAT_INDEX'					=> 'Toon op de index pagina',
+	'MCHAT_INDEX'					=> 'Toon op hrt forumoverzicht',
 	'MCHAT_SOUND'					=> 'Schakel geluid in',
 	'MCHAT_WHOIS_INDEX'				=> 'Toon <em>Wie is aan het chatten</em> onder de chat',
 	'MCHAT_STATS_INDEX'				=> 'Toon <em>Wie is aan het chatten</em> in de statistieken sectie',
@@ -49,7 +49,7 @@ $lang = array_merge($lang, [
 	'MCHAT_DISPLAY_CHARACTER_COUNT'	=> 'Geef het aantal karakters weer bij het typen van een bericht',
 	'MCHAT_RELATIVE_TIME'			=> 'Toon relatieve tijd voor nieuwe berichten',
 	'MCHAT_RELATIVE_TIME_EXPLAIN'	=> 'Toont “nu”, “1 minuut geleden” en zo verder voor ieder bericht. Stel in op <em>Nee</em> om altijd de volledige datum weer te geven.',
-	'MCHAT_MESSAGE_TOP'				=> 'Locatie van nieuwe chat berichten',
+	'MCHAT_MESSAGE_TOP'				=> 'Locatie van nieuwe chatberichten',
 	'MCHAT_MESSAGE_TOP_EXPLAIN'		=> 'Nieuwe berichten verschijnen bovenaan of onderaan in de chat.',
 	'MCHAT_LOCATION'				=> 'Locatie op de indexpagina',
 	'MCHAT_BOTTOM'					=> 'Onderaan',
@@ -62,6 +62,6 @@ $lang = array_merge($lang, [
 	'MCHAT_POSTS_LOGIN'				=> 'Toon gebruikers aanmeldingen',
 
 	'MCHAT_DATE_FORMAT'				=> 'Datum formaat',
-	'MCHAT_DATE_FORMAT_EXPLAIN'		=> 'De gebruikte syntaxis is identiek aan de PHP <a href="http://www.php.net/date">datum()</a> functie.',
+	'MCHAT_DATE_FORMAT_EXPLAIN'		=> 'De gebruikte syntax is identiek aan de PHP <a href="http://www.php.net/date">datum()</a> functie.',
 	'MCHAT_CUSTOM_DATEFORMAT'		=> 'Aangepast…',
 ]);
